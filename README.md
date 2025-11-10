@@ -6,14 +6,18 @@
 
 Problem Statement
 
-Train and evaluate multiple regression models on a dataset to:
+Training and evaluating multiple regression models on a dataset to:
 
-Establish a baseline model (Decision Tree and Linear Regression).
+1. Establish a baseline model (Decision Tree and Linear Regression).
 
-Implement Bagging (variance reduction).
+2. Implement Bagging (variance reduction).
 
-Implement Boosting (bias reduction).
+3. Implement Boosting (bias reduction).
 
-Implement Stacking (combining multiple learners).
+4. Implement Stacking (combining multiple learners).
 
-Compare all models based on Root Mean Squared Error (RMSE) and discuss results.
+5. Compare all models based on Root Mean Squared Error (RMSE) and discuss results.
+
+#### DATASET [link]https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+
+Main csv file of approx 17000 hourly sample is uploaded in the repository.
